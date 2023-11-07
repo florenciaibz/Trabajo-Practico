@@ -1,0 +1,5 @@
+Tipos de redes 
+PAN Red de area personal: Es una red pequeña se puede utilizar por ejemplo para conectar una impresora
+LAN Red de area local: Es una red limitada que se utiza en espacion reducidos como puede ser una oficina. 
+MAN Red de area metropolitana: Es una red un poco mas extensa que puede conectar como pir ejemplo una ciudad
+WAN Red de area extensa: Es la red mas extensa, puede conectar a distintos puntos por todo el mundo
